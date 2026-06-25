@@ -6,13 +6,13 @@ The Emotion Detection App is a Machine Learning and Computer Vision project that
 
 The system can recognize emotions such as:
 
-- Happyness 😊
+- Happiness 😊
 - Sadness 😢
 - Angry 😠
 - Surprise 😲
 - Fear 😨
-- joy 
-- Neutral 😐
+-  Joy 😄 
+  
 
 This project demonstrates the practical application of Artificial Intelligence, Deep Learning, and Computer Vision in emotion recognition systems.
 
