@@ -11,7 +11,7 @@ The system can recognize emotions such as:
 - Angry 😠
 - Surprise 😲
 - Fear 😨
--  Joy 😄 
+   
   
 
 This project demonstrates the practical application of Artificial Intelligence, Deep Learning, and Computer Vision in emotion recognition systems.
