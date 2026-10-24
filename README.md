@@ -20,30 +20,32 @@ This project demonstrates the practical application of Artificial Intelligence, 
 
 ## Features
 
-✅ Real-time emotion detection
+✅ Text-based emotion detection
 
-✅ Emotion classification using Deep Learning
+✅ Emotion classification using Machine Learning
 
-✅ User-friendly interface
+✅ NLP-based text processing
 
-✅ Fast and accurate predictions
+✅ TF-IDF feature extraction
 
-✅ Webcam integration
+✅ Logistic Regression classification
+
+✅ Supports six emotion categories: Joy, Sadness, Love, Anger, Fear, and Surprise
+
+✅ User-friendly and interactive Streamlit interface
+
+✅ Instant emotion prediction for user-entered text
 
 ---
 
 ## Technologies Used
 
 - Python
-- OpenCV
-- TensorFlow / Keras
-- NumPy
 - Pandas
-- Matplotlib
-- Flask
-- HTML
-- CSS
-- JavaScript
+- Scikit-learn
+- TF-IDF Vectorizer
+- Logistic Regression
+- Streamlit
 
 ---
 
