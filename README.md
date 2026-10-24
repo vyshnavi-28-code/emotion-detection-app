@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Emotion Detection App is a Machine Learning and Computer Vision project that detects human emotions from facial expressions in real time. Using a webcam feed, the application analyzes facial features and predicts the user's emotional state.
+The Emotion Detection App is a Machine Learning and Computer Vision project that detects human emotions from text. Using a webcam feed, the application analyzes text and predicts the user's emotional state.
 
 The system can recognize emotions such as:
 
@@ -21,8 +21,6 @@ This project demonstrates the practical application of Artificial Intelligence, 
 ## Features
 
 ✅ Real-time emotion detection
-
-✅ Face detection using OpenCV
 
 ✅ Emotion classification using Deep Learning
 
